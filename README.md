@@ -1,2 +1,2 @@
-# Flet-Chat-AI-site
+# Flet Chat AI site
 Site for Flet-Chat-AI
