@@ -12,10 +12,7 @@
 <script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
 </head>
 <body>
-<img src="/img/graphics/landing/hero-main.png" width="1" height="1" alt="preload"/>
-<img src="/img/videos/1.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/2.jpg" width="1" height="1" alt="Preload"/>
-<img src="/img/videos/3.jpg" width="1" height="1" alt="Preload"/>
+<img src="img/graphics/landing/hero-main.png" width="1" height="1" alt="preload"/>
 <?php include 'lib/module/sys-php.php';?>
 <?php include 'lib/module/home/inc-home-player.php'?>
 <div class="page-con-content landing-con-override">
@@ -281,7 +278,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include 'lib/module/inc-footer.php';?>
+	<?php include 'api/lib/module/inc-footer.php';?>
 </div>
 </body>
 </html>
